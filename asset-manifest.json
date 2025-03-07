@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OBE-SHOW/static/css/main.a480c285.css",
+    "main.js": "/OBE-SHOW/static/js/main.cc2a4af6.js",
+    "static/js/453.2a13b5e1.chunk.js": "/OBE-SHOW/static/js/453.2a13b5e1.chunk.js",
+    "static/media/team1.jpg": "/OBE-SHOW/static/media/team1.c4e7aec705ba7b62b6b2.jpg",
+    "static/media/services-image.png": "/OBE-SHOW/static/media/services-image.8cad5d47aff5021817ac.png",
+    "static/media/work-image.png": "/OBE-SHOW/static/media/work-image.ffcfb6c3eca89de6c01a.png",
+    "static/media/about-image.jpeg": "/OBE-SHOW/static/media/about-image.7b4f0d7baab68fa6a7e8.jpeg",
+    "static/media/team3.jpg": "/OBE-SHOW/static/media/team3.0b243b40e819c2229fd5.jpg",
+    "static/media/hero-image.jpg": "/OBE-SHOW/static/media/hero-image.b6137943f1c163aff196.jpg",
+    "static/media/team2.jpg": "/OBE-SHOW/static/media/team2.c21a24e5310619c18dbe.jpg",
+    "static/media/logo.jpg": "/OBE-SHOW/static/media/logo.106958e213e4283c5a51.jpg",
+    "index.html": "/OBE-SHOW/index.html",
+    "main.a480c285.css.map": "/OBE-SHOW/static/css/main.a480c285.css.map",
+    "main.cc2a4af6.js.map": "/OBE-SHOW/static/js/main.cc2a4af6.js.map",
+    "453.2a13b5e1.chunk.js.map": "/OBE-SHOW/static/js/453.2a13b5e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a480c285.css",
+    "static/js/main.cc2a4af6.js"
+  ]
+}
