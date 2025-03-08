@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OBE-SHOW/static/css/main.263625f6.css",
-    "main.js": "/OBE-SHOW/static/js/main.7f0267e0.js",
+    "main.js": "/OBE-SHOW/static/js/main.adbb7261.js",
     "static/js/453.2a13b5e1.chunk.js": "/OBE-SHOW/static/js/453.2a13b5e1.chunk.js",
     "static/media/team1.jpg": "/OBE-SHOW/static/media/team1.c4e7aec705ba7b62b6b2.jpg",
     "static/media/services-image.png": "/OBE-SHOW/static/media/services-image.8cad5d47aff5021817ac.png",
@@ -13,11 +13,11 @@
     "static/media/logo.jpg": "/OBE-SHOW/static/media/logo.106958e213e4283c5a51.jpg",
     "index.html": "/OBE-SHOW/index.html",
     "main.263625f6.css.map": "/OBE-SHOW/static/css/main.263625f6.css.map",
-    "main.7f0267e0.js.map": "/OBE-SHOW/static/js/main.7f0267e0.js.map",
+    "main.adbb7261.js.map": "/OBE-SHOW/static/js/main.adbb7261.js.map",
     "453.2a13b5e1.chunk.js.map": "/OBE-SHOW/static/js/453.2a13b5e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.263625f6.css",
-    "static/js/main.7f0267e0.js"
+    "static/js/main.adbb7261.js"
   ]
 }
